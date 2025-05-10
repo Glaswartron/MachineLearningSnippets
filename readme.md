@@ -5,7 +5,6 @@ This repo contains well-developed code snippets, various scripts and modules as 
 
 ## Contents
 - XGBoost: Guide and code explaining how to use [XGBoost](https://xgboost.readthedocs.io/en/release_3.0.0) with hyperparameter optimization and cross-validation
-- Multilabel and One Class Pipeline: Machine Learning (ML) script/pipeline for multilabel classification and one-class classification with feature selection and hyperparameter optimization (it's a bigger thing, see the readme there)
 - AutoGluon: Utility functions for training [AutoGluon](https://auto.gluon.ai/stable/index.html) models
 - One Class Classification: Guide and code for using a One-Class SVM
 - RFECV: Guide and code for using RFECV in combination with other models
